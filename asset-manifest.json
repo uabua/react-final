@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/react-final/static/css/main.368b27e4.chunk.css",
+    "main.js": "/react-final/static/js/main.f46e52ce.chunk.js",
+    "main.js.map": "/react-final/static/js/main.f46e52ce.chunk.js.map",
+    "runtime-main.js": "/react-final/static/js/runtime-main.402ca09b.js",
+    "runtime-main.js.map": "/react-final/static/js/runtime-main.402ca09b.js.map",
+    "static/css/2.d2651a68.chunk.css": "/react-final/static/css/2.d2651a68.chunk.css",
+    "static/js/2.84945f1e.chunk.js": "/react-final/static/js/2.84945f1e.chunk.js",
+    "static/js/2.84945f1e.chunk.js.map": "/react-final/static/js/2.84945f1e.chunk.js.map",
+    "static/js/3.8aeaeb11.chunk.js": "/react-final/static/js/3.8aeaeb11.chunk.js",
+    "static/js/3.8aeaeb11.chunk.js.map": "/react-final/static/js/3.8aeaeb11.chunk.js.map",
+    "index.html": "/react-final/index.html",
+    "static/css/2.d2651a68.chunk.css.map": "/react-final/static/css/2.d2651a68.chunk.css.map",
+    "static/css/main.368b27e4.chunk.css.map": "/react-final/static/css/main.368b27e4.chunk.css.map",
+    "static/js/2.84945f1e.chunk.js.LICENSE.txt": "/react-final/static/js/2.84945f1e.chunk.js.LICENSE.txt",
+    "static/media/astronaut.25bd7b58.png": "/react-final/static/media/astronaut.25bd7b58.png",
+    "static/media/earth.032a819c.jpg": "/react-final/static/media/earth.032a819c.jpg",
+    "static/media/jupiter.688ea48c.png": "/react-final/static/media/jupiter.688ea48c.png",
+    "static/media/mars.fb3c032d.jpg": "/react-final/static/media/mars.fb3c032d.jpg",
+    "static/media/mercury.87ef0c5e.jpg": "/react-final/static/media/mercury.87ef0c5e.jpg",
+    "static/media/neptune.657d2fb9.jpg": "/react-final/static/media/neptune.657d2fb9.jpg",
+    "static/media/not_found_404.a085946f.gif": "/react-final/static/media/not_found_404.a085946f.gif",
+    "static/media/profile_pic.81fddec2.jpg": "/react-final/static/media/profile_pic.81fddec2.jpg",
+    "static/media/rocket.7fef7dba.png": "/react-final/static/media/rocket.7fef7dba.png",
+    "static/media/rocket_animation.fe0818a3.gif": "/react-final/static/media/rocket_animation.fe0818a3.gif",
+    "static/media/solar_system.450a7278.png": "/react-final/static/media/solar_system.450a7278.png",
+    "static/media/venus.88e85837.jpg": "/react-final/static/media/venus.88e85837.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.402ca09b.js",
+    "static/css/2.d2651a68.chunk.css",
+    "static/js/2.84945f1e.chunk.js",
+    "static/css/main.368b27e4.chunk.css",
+    "static/js/main.f46e52ce.chunk.js"
+  ]
+}
