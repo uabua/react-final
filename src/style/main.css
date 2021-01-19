@@ -1,0 +1,125 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background: #000;
+}
+
+header .link {
+    text-decoration: none;
+    color: white;
+}
+
+header nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    height: 50px;
+}
+
+header .logo {
+    float: left;
+    display: block;
+    height: 50px;
+}
+
+header nav ul li {
+    float: left;
+    display: block;
+    color: white;
+    font-size: 22px;
+    text-align: center;
+    padding: 7px 20px;
+    text-decoration: none;
+}
+
+nav ul li:hover {
+    background-color: #333;
+}
+
+.not-found {
+    margin: auto;
+    margin-top: 20px;
+    width: 600px;
+}
+
+.not-found img {
+    width: 600px;
+}
+
+.profile-info {
+    width: 300px;
+    padding-left: 20px;
+}
+
+.soial-links-contanier {
+    margin-top: 10px;
+    width: 300px;
+    padding-left: 20px;
+}
+
+.social-media {
+    width: 50px;
+    margin-left: 20px;
+}
+
+footer {
+    left: 0;
+    bottom: 0;
+    margin-top: 25px;
+    width: 100%;
+    background-color: #000;
+    color: white;
+    text-align: center;
+}
+
+.flex-container {
+    display: flex;
+}
+
+.flex-child {
+    margin-right: 20px;
+}
+
+.my-apod {
+    text-align: center;
+}
+
+.planet {
+    width: 600px;
+    height: 330px;
+}
+
+.arrow {
+    margin: auto;
+}
+
+.arrow img {
+    width: 50px;
+}
+
+.fact {
+    width: 700px;
+    text-align: center;
+}
+
+.news {
+    padding: 0; 
+    width: 500px;
+}
+
+.news img {
+    width: 500px;
+    height: 250px;
+}
+
+.home-card {
+    width: 350px;
+}
+
+.home-card img {
+    width: 200px;
+}
