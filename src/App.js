@@ -1,5 +1,5 @@
 import './style/main.css';
-import { BrowserRouter, Route, Switch } from 'react-router-dom';
+import { HashRouter, Route, Switch } from 'react-router-dom';
 import Header from './components/header/header';
 import NotFound from './components/pages/not_found';
 import AboutMe from './components/pages/about_me/about_me';
@@ -12,7 +12,7 @@ import Home from './components/pages/home/home';
 
 function App() {
   return (
-    <BrowserRouter>
+    <HashRouter>
       <Header />
       <main>
         <Switch>
@@ -27,7 +27,7 @@ function App() {
         </Switch>
       </main>
       <Footer />
-    </BrowserRouter>
+    </HashRouter>
   );
 }
 
