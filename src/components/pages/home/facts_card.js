@@ -1,4 +1,5 @@
 import React from 'react';
+import { Link } from 'react-router-dom';
 import solar_system from '../../../assets/solar_system.png';
 
 const FactsCard = () => {
@@ -8,7 +9,7 @@ const FactsCard = () => {
             Interesting Planet Facts
         </h2>
         <div className="text-right">
-            <a href="/facts" class="btn active">See more🚀</a>
+            <Link to="/facts" class="btn active">See more🚀</Link>
        </div>
     </div>;
 }

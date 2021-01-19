@@ -1,4 +1,5 @@
 import React from 'react';
+import { Link } from 'react-router-dom';
 import rocket from '../../../assets/rocket.png';
 
 const NewsCard = () => {
@@ -8,7 +9,7 @@ const NewsCard = () => {
             Spaceflight News
         </h2>
         <div className="text-right">
-            <a href="/news" class="btn active">See more🚀</a>
+            <Link to="/news" class="btn active">See more🚀</Link>
        </div>
     </div>;
 }
